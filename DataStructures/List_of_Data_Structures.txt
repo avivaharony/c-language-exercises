@@ -1,0 +1,6 @@
+List of add stuctures:
+
+Stack - stack.c
+Queue - queue.c
+Single Linked List - slist.c
+Doubly Linked List - dlist.c
